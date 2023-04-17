@@ -1,0 +1,150 @@
+
+.park-name {
+  font-size: 15px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+  padding-top: 8px;
+}
+
+.park-name:hover {
+  color: #337152;
+  cursor: pointer;
+}
+
+.park-name:active {
+  color: #337152;
+  cursor: pointer;
+}
+
+.park-detail-card {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  width: 97%;
+  padding-left: 10px;
+  padding-right: 5px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 0.25rem;
+  overflow: hidden;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+}
+
+.park-details {
+  margin-top: 20px;
+}
+
+.park-card-image {
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 130px;
+  height: 130px;
+  margin: auto;
+  border-radius: 5px;
+  filter: contrast(70%);
+  overflow: hidden;
+  transition: filter 0.5s cubic-bezier(.43, .41, .22, .91);
+}
+
+.park-card-image:hover {
+  filter: contrast(100%);
+}
+
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+.image-cards {
+  display: flex;
+  flex-wrap: wrap;
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+  overflow: hidden;
+}
+
+.image-card-style {
+  width: 150px;
+  margin-top: 5px;
+  margin-left: 4px;
+  justify-content: space-around;
+}
+
+.image-title {
+  font-size: 12px;
+  margin-top: 0px;
+  margin-bottom: 4px;
+}
+
+.photo-cred {
+  font-size: 8px;
+  font-weight: 300;
+  color: #333;
+  letter-spacing: 0.35px;
+  margin-top: 0px;
+}
+
+.activity-details {
+  margin-top: 4px;
+  margin-bottom: 30px;
+  margin-left: -20px;
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 1.35;
+  color: #333;
+  max-width: 450px;
+}
+
+.park-address {
+  font-size: 13px;
+  letter-spacing: 1px;
+  color: #333;
+}
+
+.park-description {
+  font-size: 13px;
+  letter-spacing: .5px;
+  line-height: 1.25;
+  color: #333;
+  margin-top: 4px;
+  margin-left: 4px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+}
+
+.save-button {
+  z-index: 9999;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 98%;
+  color: white;
+  background-color: black;
+  margin-top: 10px;
+  margin-left: 4px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 0px solid;
+  border-radius: 4px;
+  font-size: 12px;
+}
+
+.save-button:hover {
+  background-color: #337152;
+  cursor: pointer;
+}
+
+.checkboxes {
+  z-index: 9999;
+}

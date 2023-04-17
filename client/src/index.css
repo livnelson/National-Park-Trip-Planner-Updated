@@ -1,0 +1,81 @@
+
+
+
+
+/*  GLOBAL STYLING */
+
+/* h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+  padding: 5px;
+  line-height: 1;
+}
+
+p {
+  margin: 0;
+  padding: 5px;
+  line-height: 1;
+  font-size: 13px;
+}
+
+a {
+  color: #337152;
+  text-decoration: none;
+  font-weight: 400;
+
+}
+
+a:hover {
+  color: #86b59e;
+  text-decoration: none;
+  cursor: pointer;
+} */
+
+
+
+/* NAVBAR */
+
+/* .navbar {
+  color: white; */
+  /* position: fixed; */
+  /* display: flex;
+  vertical-align: middle;
+  justify-content: right;
+  top: 0;
+  left: 0;
+  right: 0;
+  padding-top: 8px;
+  padding-right: 20px;
+  height: 60px;
+  text-align: right;
+}
+
+.nav-link {
+  color: white;
+  font-weight: 400;
+  margin-top: 16px;
+  padding-top: 6px;
+  padding-left: 16px;
+  padding-right: 16px;
+  font-size: 14px;
+  letter-spacing: 1.5px;
+}
+
+.nav-link:hover {
+  color: #86b59e;
+  cursor: pointer;
+}
+
+.avatar {
+  width: 30px;
+  height: 30px;
+  margin-top: 12px;
+  margin-right: 0;
+  border: 0;
+  border-radius: 50%;
+  background-color: #86b59e;
+} */

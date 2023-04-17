@@ -1,0 +1,29 @@
+.park-name {
+  margin-top: 0px;
+  margin-bottom: 0;
+  margin-left: 4px;
+}
+
+.park-subheader {
+  margin-top: 10px;
+  margin-bottom: 4px;
+  margin-left: 4px;
+  line-height: 1;
+}
+
+.address {
+  font-size: 13px;
+  letter-spacing: 1px;
+  color: #333;
+  line-height: 1;
+  margin-top: 4px;
+  margin-bottom: 0;
+  margin-left: 4px;
+}
+
+.park-website {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 4px;
+  line-height: 1;
+}
